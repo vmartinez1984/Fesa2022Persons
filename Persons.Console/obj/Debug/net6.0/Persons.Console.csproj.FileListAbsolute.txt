@@ -1,0 +1,16 @@
+C:\Users\vmartinez\Source\Repos\Persons\Persons.Console\bin\Debug\net6.0\Persons.Console.exe
+C:\Users\vmartinez\Source\Repos\Persons\Persons.Console\bin\Debug\net6.0\Persons.Console.deps.json
+C:\Users\vmartinez\Source\Repos\Persons\Persons.Console\bin\Debug\net6.0\Persons.Console.runtimeconfig.json
+C:\Users\vmartinez\Source\Repos\Persons\Persons.Console\bin\Debug\net6.0\Persons.Console.dll
+C:\Users\vmartinez\Source\Repos\Persons\Persons.Console\bin\Debug\net6.0\Persons.Console.pdb
+C:\Users\vmartinez\Source\Repos\Persons\Persons.Console\obj\Debug\net6.0\Persons.Console.csproj.AssemblyReference.cache
+C:\Users\vmartinez\Source\Repos\Persons\Persons.Console\obj\Debug\net6.0\Persons.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vmartinez\Source\Repos\Persons\Persons.Console\obj\Debug\net6.0\Persons.Console.AssemblyInfoInputs.cache
+C:\Users\vmartinez\Source\Repos\Persons\Persons.Console\obj\Debug\net6.0\Persons.Console.AssemblyInfo.cs
+C:\Users\vmartinez\Source\Repos\Persons\Persons.Console\obj\Debug\net6.0\Persons.Console.csproj.CoreCompileInputs.cache
+C:\Users\vmartinez\Source\Repos\Persons\Persons.Console\obj\Debug\net6.0\Persons.Console.dll
+C:\Users\vmartinez\Source\Repos\Persons\Persons.Console\obj\Debug\net6.0\refint\Persons.Console.dll
+C:\Users\vmartinez\Source\Repos\Persons\Persons.Console\obj\Debug\net6.0\Persons.Console.pdb
+C:\Users\vmartinez\Source\Repos\Persons\Persons.Console\obj\Debug\net6.0\Persons.Console.genruntimeconfig.cache
+C:\Users\vmartinez\Source\Repos\Persons\Persons.Console\obj\Debug\net6.0\ref\Persons.Console.dll
+C:\Users\vmartinez\Source\Repos\Persons\Persons.Console\bin\Debug\net6.0\Repositories\Persons.txt
